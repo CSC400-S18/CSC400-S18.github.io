@@ -1,0 +1,66 @@
+{
+    "faculty":{
+        "bdugan": {
+            "github": "drbobdugan",
+            "name": "Dr. Bob Dugan",
+            "role": "Faculty Advisor"
+        },
+        "msale": {
+            "github": "mjsale781",
+            "name": "Prof. Michael Sale",
+            "role": "AGILE Coach"
+        }
+    },
+    "2018": {
+        "mmiddleton": {
+            "github":  "michaelpmiddleton",
+            "name": "Michael Middleton",
+            "role": "QA Tester"   
+        },
+        "aandon": {
+            "github": "Andon18",
+            "name": "Armen Andonian",
+            "role": "Developer"
+        },
+        "myoung2": {
+            "github":  "myoung95",
+            "name": "Matthew young",
+            "role": "Developer"   
+        },
+        "nvidyarthy": {
+            "github":  "nvidyarthy",
+            "name": "Nevin Vidyarthy",
+            "role": "QA Tester"   
+        },
+        "sbradford": {
+            "github":  "sbradford24",
+            "name": "Sam Bradford",
+            "role": "Scrum Master / Developer"   
+        },
+        "smacswain": {
+            "github":  "smacswain6",
+            "name": "Stephen MacSwain",
+            "role": "Developer"   
+        },
+        "vmoeckel": {
+            "github":  "victoriamoeckel",
+            "name": "Victoria Moeckel",
+            "role": "Developer"   
+        },
+        "wgreelish": {
+            "github":  "wgreelish",
+            "name": "William Greelish",
+            "role": "Developer"   
+        },
+        "mpeters": {
+            "github":  "mpeters0089",
+            "name": "Matthew Peters",
+            "role": "Developer"   
+        },
+        "nlisichenok": {
+            "github":  "nlisichenok",
+            "name": "Nickolai Lisichenok",
+            "role": "Developer"   
+        }
+    }
+}
